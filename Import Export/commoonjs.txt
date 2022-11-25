@@ -1,0 +1,46 @@
+
+
+
+Export
+let name = "Ahemd Raza " 
+module.exports = name
+
+Import
+
+const nm = require('./student/dd/index.js)
+console.log(nm)
+Give Complete Path inside require bracket
+
+
+
+give Exact name inside bracket where from you import 
+const {mm , marks } =  require('./student/dd/index.js)
+console.log(nm)
+console.log(10,20)
+
+
+
+
+
+
+
+
+
+ES6  Import Export 
+let nm = " "
+Export
+export default nm;
+
+
+
+function export 
+
+
+
+
+
+
+
+
+
+
